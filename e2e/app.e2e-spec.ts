@@ -1,6 +1,6 @@
 import { AppPage } from './app.po';
 
-describe('ngf App', () => {
+describe('fire2 App', () => {
   let page: AppPage;
 
   beforeEach(() => {
