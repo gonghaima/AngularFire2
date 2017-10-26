@@ -6,11 +6,11 @@
 export const environment = {
   production: false,
   firebase: {
-    apiKey: 'AIzaSyAa3E5ebTdY2J9aLcafq1-WEI4hq5OrudM',
-    authDomain: 'secondfirebase-b74a7.firebaseapp.com',
-    databaseURL: 'https://secondfirebase-b74a7.firebaseio.com',
-    projectId: 'secondfirebase-b74a7',
-    storageBucket: 'secondfirebase-b74a7.appspot.com',
-    messagingSenderId: '1092896786325'
+    apiKey: 'AIzaSyCImTsAZl0ysonaONMVCcZfVH3HmETb6tw',
+    authDomain: 'thirdfbb.firebaseapp.com',
+    databaseURL: 'https://thirdfbb.firebaseio.com',
+    projectId: 'thirdfbb',
+    storageBucket: 'thirdfbb.appspot.com',
+    messagingSenderId: '916136991069'
   }
 };
