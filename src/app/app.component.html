@@ -1,1 +1,11 @@
-<h1 *ngFor="let item of itemsList">{{item}}</h1>
+<md-toolbar color='primary'>
+  <span>Angularfire</span>
+</md-toolbar>
+<div>
+  <div fxFlexOffset.gt-sm="15%" fxFlex.gt-sm="70%">
+    <p>container</p>
+    <app-company-edit></app-company-edit>
+    <router-outlet></router-outlet>
+  </div>
+</div>
+<!-- <h1 *ngFor="let item of itemsList">{{item}}</h1> -->
